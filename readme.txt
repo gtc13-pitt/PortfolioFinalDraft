@@ -11,3 +11,9 @@ Questions and Aims:
 - does it feel imcomplete? (in terms of the amount of information presented)
 - would it make sense to include more text toward the bottom?
 - how would you go about expanding or creating multiple .html pages while keeping the flow organized and somewhat linear?
+
+Work In Progress
+
+- still figuring out how to make the flipcard cleaner
+- want to find a way to put more information at bottom, as well as a "scroll to top" button
+- figuring out how to better conform <div> around the four text boxes
